@@ -1,5 +1,4 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+//<SSV:20235431
 public class Main {
     public static void main(String[] args) {
         PhongBan pb = new PhongBan("phong tai chinh", (byte) 5);
@@ -14,6 +13,6 @@ public class Main {
         pb.xoaNV();
         pb.inTTin();
         System.out.println("Tong luong:"+pb.tongLuong());
-
+         System.out.println("hihi");
     }
 }
