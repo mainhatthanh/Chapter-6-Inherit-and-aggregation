@@ -13,6 +13,6 @@ public class Main {
         pb.xoaNV();
         pb.inTTin();
         System.out.println("Tong luong:"+pb.tongLuong());
-         System.out.println("hihi");
+
     }
 }
